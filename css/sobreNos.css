@@ -1,0 +1,23 @@
+.titulo-sobre-nosotros{
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+    font-size: 1.1rem;
+    font-family: var(--montserrat);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+
+.texto-parrafo-nosotros{
+
+margin: 0.5em 1em;
+
+}
+
+.container-iconos-pltaformas{
+    display: flex;
+    justify-content: space-around;
+
+   
+}
